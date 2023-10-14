@@ -1,0 +1,11 @@
+
+	---------- - HORSE RACE RESULTS----------------
+Horse #1 finished at distance: 3
+Horse #2 finished at distance: 3
+Horse #3 finished at distance: 3
+Horse #4 finished at distance: 3
+Horse #5 finished at distance: 3
+
+No horse finished the race.
+
+END OF HORSE RACE

@@ -1,0 +1,9 @@
+
+	---------- - HORSE RACE RESULTS----------------
+Horse #1 finished at distance: 22
+Horse #2 finished at distance: 22
+Horse #3 finished at distance: 22
+Horse #4 finished at distance: 22
+Horse #5 finished at distance: 22
+
+END OF HORSE RACE
